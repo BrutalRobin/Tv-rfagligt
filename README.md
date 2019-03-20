@@ -1,2 +1,0 @@
-# Tv-rfagligt
-Projektcode
